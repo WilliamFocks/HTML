@@ -1,0 +1,29 @@
+body{
+    background: lightcyan;
+    font-family: 'Times New Roman', Times, serif
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 30px;
+}
+.opening{
+    font-size: 30px;
+}
+.development-methods{
+    font-size: 25px;
+}
+.development_imgs{
+    height: 30;
+    width: 40;
+}
+.steps{
+    color: darkred;
+    font-size: 20px;
+}
+p{
+    font-size: 25px;
+}
